@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
     createBoard();
 
 
+    // Drag the candies
     let colorBeingDragged;
     let colorBeingReplaced;
     let squareIdBeingDragged;
